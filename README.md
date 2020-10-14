@@ -1,5 +1,5 @@
 # TextColorful
-TextColorful
+Set Muti Color In UILabel
 
 ## Features
 * setTextColorful
