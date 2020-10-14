@@ -1,11 +1,11 @@
-# TextColorful
+# Set Text Colorful
 Set Muti Color In UILabel
 
 ## Features
 * setTextColorful
 
 ## Requirements
-- iOS 14
+- iOS 9.0+
 - Xcode 12.0
 
 ## Example
